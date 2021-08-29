@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kazi tahsin Mahmood
+- 👋 Hi, I’m Kazi Tahsin Mahmood
 - 👀 I’m interested in numerical analysis and mechanics of composites
 - 🌱 I’m currently learning nano mechanics and ndvanced numerical analysis
 - 💞️ I’m looking to collaborate on computational mechanics
